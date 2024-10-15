@@ -1,7 +1,8 @@
 # AI-ML-Labs
 KLH AZIZ NAGAR AI ML LAB'S
 
-Augmented Image and Video Processing Pipeline with Meta SAM 2 and YOLO Models
+# Augmented Image and Video Processing Pipeline with Meta SAM 2 and YOLO Models
+
 This project establishes a robust workflow for augmenting images and videos, integrating the Meta SAM 2 model for mask creation and two YOLO models for object recognition. It offers diverse augmentation techniques such as pixelation, hue adjustment, mask swapping, and glowing effects. The system also enables generative AI-powered transformations through the Stability AI API.
 
 Key Features
